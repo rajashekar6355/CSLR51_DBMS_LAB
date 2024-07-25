@@ -26,9 +26,9 @@ LAB 1: 10-JULY-2024
 12. Floor, Ceil of a float
 	select floor(9.8) as f, ceil(9.8) s c;
 13. Operations on regex
-	select "Akhshay" REGEXP "A*"; select "Akhshay" REGEXP "B+";
+	select "Rajashekar" REGEXP "A*"; select "Rajashekar" REGEXP "B+";
 14. Compare 2 strings
-	Select STRCMP('Mahesh', 'Mahesh') As 'Cmp_Value';
+	Select STRCMP('Rajashekar', 'Rajashekar') As 'Cmp_Value';
 15. Simulate if-else statement for marks and grades
 	SELECT IF(500>100, "YES", "NO");
 16. IS NULL
